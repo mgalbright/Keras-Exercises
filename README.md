@@ -9,3 +9,4 @@ single-layer neural nets as templates for template matching.
 This can help us understand how simple neural nets work.  In the 
 second half of the notebook, I discuss an alternate interpretation of
 weights in convolutional neural nets as low-level filters for feature generation.
+Check out the notebook [TemplateMatching.ipynb](https://github.com/mgalbright/Keras-Exercises/blob/master/1_InterpretingFeatures/TemplateMatching.ipynb).
